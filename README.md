@@ -29,7 +29,7 @@
         <td width="50%">
           <h3 align="center">Izzit Vegan</h3>
           <p align="center">
-            <a href="https://izzit.netlify.app"><img src="https://media.giphy.com/media/eRGBx0qZUT00PrKfDT/giphy.gif" alt="project example"/></a>
+            <a href"https://izzit.netlify.app/"><img src="https://media.giphy.com/media/eRGBx0qZUT00PrKfDT/giphy.gif" alt="project example"/></a>
             <p align="center">
               Users can enter an EAN or UPC barcode. A table of ingredients and whether the ingredients is vegan is returned
             </p>
