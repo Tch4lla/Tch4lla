@@ -25,6 +25,7 @@
               Users can select a date between June 16th 1965 and the current date to view NASA's photo of the day
             </p>
           <br>
+          <p align="center"> Developed with - <strong> HTML5, Javascript, CSS, NASA APOD Api</strong><p>
           <br>
           <p align="center">
           <a href="https://github.com/Tch4lla/Izzit_vegan" target="_blank">
@@ -44,6 +45,7 @@
              Users can enter an EAN or UPC barcode. A table of ingredients and whether the ingredients is vegan is returned
             </p>
             <br>
+            <p align="center">Developed with - <strong> HTML5, Javascript, CSS, Open Food Facts Api</strong><p>
             <br>
             <p align="center">
             <a href="https://github.com/Tch4lla/Izzit_vegan" target="_blank">
