@@ -26,7 +26,6 @@
             </p>
           <br>
           <p align="center"> Developed with - <strong> HTML5, Javascript, CSS, NASA APOD Api</strong><p>
-          <br>
           <p align="center">
           <a href="https://github.com/Tch4lla/Izzit_vegan" target="_blank">
           <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
@@ -46,7 +45,6 @@
             </p>
             <br>
             <p align="center">Developed with - <strong> HTML5, Javascript, CSS, Open Food Facts Api</strong><p>
-            <br>
             <p align="center">
             <a href="https://github.com/Tch4lla/Izzit_vegan" target="_blank">
             <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
