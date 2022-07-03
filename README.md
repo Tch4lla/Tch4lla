@@ -4,7 +4,7 @@
 <h3 align="center">I am a passionate fullstack developer based in Osaka Japan</h3>
 
 
-- 👨‍💻 I have a seperate portfolio for building websites [here](sulaymanesillah.netlify.app)
+- 👨‍💻 I have a seperate portfolio for building websites <a href="https://sulaymanesillah.netlify.app">here</a>
 
 - 📫 If you'd like to get in touch with me, send me an email at **sssillah1@gmail.com**
 
