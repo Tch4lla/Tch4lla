@@ -20,10 +20,20 @@
         <td width="50%">
           <h3 align="center">Osaka Subaru Stargazers</h3>
           <p align="center">
-            <img src="https://media.giphy.com/media/RNxI88WtHRLGR7zDyP/giphy.gif" alt="project example"/>
+            <img src="https://media.giphy.com/media/RNxI88WtHRLGR7zDyP/giphy.gif" alt="project example" width="100%"/>
             <p align="center">
-              Users can view NASA's Astronomy Photo of the Day.
+              Users can select a date between June 16th 1965 and the current date to view NASA's photo of the day
             </p>
+          <br>
+          <br>
+          <p align="center">
+          <a href="https://github.com/Tch4lla/Izzit_vegan" target="_blank">
+          <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+          </a>  
+          <a href="https://osakasubaru.netlify.app/" target="_blank">
+          <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+          </a>
+          </p>
           </p>
         </td>
         <td width="50%">
@@ -31,9 +41,19 @@
           <p align="center">
             <a href"https://izzit.netlify.app/"><img src="https://media.giphy.com/media/eRGBx0qZUT00PrKfDT/giphy.gif" alt="project example"/></a>
             <p align="center">
-              Users can enter an EAN or UPC barcode. A table of ingredients and whether the ingredients is vegan is returned
+             Users can enter an EAN or UPC barcode. A table of ingredients and whether the ingredients is vegan is returned
             </p>
-          </p>
+            <br>
+            <br>
+            <p align="center">
+            <a href="https://github.com/Tch4lla/Izzit_vegan" target="_blank">
+            <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+            </a>  
+            <a href="https://izzit.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
+            </a>
+            </p>
+            </p>
         </td>
       </tr>
   </table>
