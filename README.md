@@ -4,9 +4,9 @@
 <h3 align="center">I am a passionate fullstack developer based in Osaka Japan</h3>
 
 
-- 👨‍💻 All of my projects are available at [sulaymanesillah.netlify.app](sulaymanesillah.netlify.app)
+- 👨‍💻 I have a seperate portfolio for building websites [here](sulaymanesillah.netlify.app)
 
-- 📫 How to reach me **sssillah1@gmail.com**
+- 📫 If you'd like to get in touch with me, send me an email at **sssillah1@gmail.com**
 
 - ⚡ Fun fact **When I'm not coding I teach wing chun kung fu**
 
