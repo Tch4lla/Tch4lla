@@ -27,7 +27,7 @@
           <br>
           <p align="center"> Developed with - <strong> HTML5, Javascript, CSS, NASA APOD Api</strong><p>
           <p align="center">
-          <a href="https://github.com/Tch4lla/Izzit_vegan" target="_blank">
+          <a href="https://github.com/Tch4lla/Osaka_Subaru" target="_blank">
           <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
           </a>  
           <a href="https://osakasubaru.netlify.app/" target="_blank">
