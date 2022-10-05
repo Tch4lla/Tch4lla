@@ -16,7 +16,25 @@
 
 <div align="center">
   <table>
-      <tr>
+    <tr>
+      <td colspan="2">
+          <h3 align="center">Eatable</h3>
+          <p align="center">
+            <img src="https://media.giphy.com/media/l17nTWw6bdRiIAK4Ez/giphy.gif" alt="project example" width="100%"/>
+            <p align="center">
+               Full-stack web application social network where Users can upload and tag images of their food with the intent of sharing the location of restaurants or places which have menus that cater to certain dietary restrictions, e.g, vegan, kosher, vegetarian, hallal etc. 
+            </p>
+          <br>
+          <p align="center"> Developed with - <strong> HTML5, Javascript, Tailwind, Bootstrap, ExpressJS, MongoDB</strong><p>
+            <p align="center">
+              <a href="https://github.com/Tch4lla/Eatable/" target="_blank">
+              <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+              </a>  
+            </p>
+          </p>
+        </td>
+    </tr>
+    <tr>
         <td width="50%">
           <h3 align="center">Osaka Subaru Stargazers</h3>
           <p align="center">
