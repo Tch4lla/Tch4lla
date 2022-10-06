@@ -20,7 +20,7 @@
       <td colspan="2">
           <h3 align="center">Eatable</h3>
           <p align="center">
-            <img src="https://media.giphy.com/media/l17nTWw6bdRiIAK4Ez/giphy.gif" alt="project example" width="100%"/>
+            <img src="https://media.giphy.com/media/142YCCe29suKokApMQ/giphy.gif" alt="project example" width="100%"/>
             <p align="center">
                Full-stack web application social network where Users can upload and tag images of their food with the intent of sharing the location of restaurants or places which have menus that cater to certain dietary restrictions, e.g, vegan, kosher, vegetarian, hallal etc. 
             </p>
