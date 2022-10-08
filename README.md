@@ -1,7 +1,7 @@
 # ![Header](https://github.com/Tch4lla/Tch4lla/blob/main/Github_Header.jpg)
 
 <h1 align="center">Thanks for stopping by</h1>
-<h3 align="center">I am a passionate fullstack Javascript developer based in Osaka Japan</h3>
+<h3 align="left">I am a passionate fullstack Javascript developer based in Osaka Japan. I have a proven track record of designing and delivering successful web applications. The frontend of my applications adhere to the seperations of concerns and apply modern front end interfaces such as Vue.js, React, Tailwind, and Bootstrap. The backend of my applications are orgniazed using an MVC structure and are implemented using Node.js</h3>
 
 
 - 👨‍💻 I have a seperate portfolio for building websites <a href="https://sulaymanesillah.netlify.app">here</a>
@@ -32,7 +32,7 @@
       <td colspan="2">
           <h3 align="center">Eatable</h3>
           <p align="center">
-            <img src="https://media.giphy.com/media/142YCCe29suKokApMQ/giphy.gif" alt="project example" width="100%"/>
+            <img src="https://media.giphy.com/media/vZktlDp0KW2HKK4czF/giphy.gif" alt="project example" width="100%"/>
             <p align="center">
                Full-stack web application social network where Users can upload and tag images of their food with the intent of sharing the location of restaurants or places which have menus that cater to certain dietary restrictions, e.g, vegan, kosher, vegetarian, hallal etc. 
             </p>
