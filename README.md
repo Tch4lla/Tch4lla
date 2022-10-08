@@ -12,14 +12,15 @@
 
 <h2 align="center">Languages Used</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-005da8?style=for-the-badge&logo=html5&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/CSS3-005da8?style=for-the-badge&logo=css3&logoColor=white" height=25>
+
 <img src="https://img.shields.io/badge/JavaScript-005da8?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
 <img src="https://img.shields.io/badge/Node.js-005da8?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/-Vue-005da8?style=for-the-badge&logo=Vuedotjs&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/React-005da8?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
 <img src="https://img.shields.io/badge/MongoDB-005da8?style=for-the-badge&logo=mongodb&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/GIT-005da8?style=for-the-badge&logo=git&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/HTML5-005da8?style=for-the-badge&logo=html5&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/CSS3-005da8?style=for-the-badge&logo=css3&logoColor=white" height=25>
 </p>
 
 
@@ -36,7 +37,7 @@
                Full-stack web application social network where Users can upload and tag images of their food with the intent of sharing the location of restaurants or places which have menus that cater to certain dietary restrictions, e.g, vegan, kosher, vegetarian, hallal etc. 
             </p>
           <br>
-          <p align="center"> Developed with - <strong> HTML5, Javascript, Tailwind, Bootstrap, ExpressJS, MongoDB</strong><p>
+          <p align="center"> Developed with - <strong> HTML5, Javascript, Tailwind, Bootstrap, ExpressJS, MongoDB, Node.js</strong><p>
             <p align="center">
               <a href="https://github.com/Tch4lla/Eatable/" target="_blank">
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
