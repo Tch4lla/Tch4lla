@@ -1,7 +1,7 @@
 # ![Header](https://github.com/Tch4lla/Tch4lla/blob/main/Github_Header.jpg)
 
 <h1 align="center">Thanks for stopping by</h1>
-<h3 align="center">I am a passionate fullstack developer based in Osaka Japan</h3>
+<h3 align="center">I am a passionate fullstack Javascript developer based in Osaka Japan</h3>
 
 
 - 👨‍💻 I have a seperate portfolio for building websites <a href="https://sulaymanesillah.netlify.app">here</a>
@@ -10,6 +10,16 @@
 
 - ⚡ Fun fact **When I'm not coding I teach wing chun kung fu**
 
+<h2 align="center">Languages Used</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/HTML5-005da8?style=for-the-badge&logo=html5&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/CSS3-005da8?style=for-the-badge&logo=css3&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/JavaScript-005da8?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
+<img src="https://img.shields.io/badge/Node.js-005da8?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/React-005da8?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
+<img src="https://img.shields.io/badge/MongoDB-005da8?style=for-the-badge&logo=mongodb&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/GIT-005da8?style=for-the-badge&logo=git&logoColor=white" height=25>
+</p>
 
 
 <h2 align="center">Recent Projects:</h2>
@@ -90,16 +100,7 @@
 </table>
 </div>
 <img src="https://activity-graph.herokuapp.com/graph?username=Tch4lla&bg_color=FFFFFF00&color=0aa9ff&line=1288ff&point=26acff&hide_border=true&title_color=">
-<h2 align="center">Languages Used</h2>
-<p align="center">
-<img src="https://img.shields.io/badge/HTML5-005da8?style=for-the-badge&logo=html5&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/CSS3-005da8?style=for-the-badge&logo=css3&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/JavaScript-005da8?style=for-the-badge&logo=javascript&logoColor=F7DF1E" height=25>
-<img src="https://img.shields.io/badge/Node.js-005da8?style=for-the-badge&logo=nodedotjs&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/React-005da8?style=for-the-badge&logo=react&logoColor=61DAFB" height=25>
-<img src="https://img.shields.io/badge/MongoDB-005da8?style=for-the-badge&logo=mongodb&logoColor=white" height=25>
-<img src="https://img.shields.io/badge/GIT-005da8?style=for-the-badge&logo=git&logoColor=white" height=25>
-</p>
+
 
 
 <h3 align="center">Connect with me:</h3>
