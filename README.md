@@ -1,7 +1,7 @@
 # ![Header](https://github.com/Tch4lla/Tch4lla/blob/main/Github_Header.jpg)
 
 <h1 align="center">Thanks for stopping by</h1>
-<h3 align="left">I am a passionate fullstack Javascript developer based in Osaka Japan. I have a proven track record of designing and delivering successful web applications. The frontend of my applications adhere to the seperations of concerns and apply modern front end interfaces such as Vue.js, React, Tailwind, and Bootstrap. The backend of my applications are orgniazed using an MVC structure and are implemented using Node.js</h3>
+<h3 align="left">I am a passionate fullstack JavaScript developer based in Osaka Japan. I have a proven track record of designing and delivering successful web applications. The frontend of my applications adhere to the separations of concerns and apply modern front end interfaces such as Vue.js, React, Tailwind, and Bootstrap. The backend of my applications are organized using an MVC structure and are implemented using Node.js</h3>
 
 
 - 👨‍💻 I have a seperate portfolio for building websites <a href="https://sulaymanesillah.netlify.app">here</a>
