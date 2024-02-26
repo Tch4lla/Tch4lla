@@ -32,15 +32,17 @@
       <td colspan="2">
           <h3 align="center">Eatable</h3>
           <p align="center">
-            <img src="https://media.giphy.com/media/vZktlDp0KW2HKK4czF/giphy.gif" alt="project example" width="100%"/>
+            <img src="https://media.giphy.com/media/wIe5TX5Cym7J5cKyvj/giphy.gif" alt="project example" width="100%"/>
             <p align="center">
-               Full-stack web application social network where Users can upload and tag images of their food with the intent of sharing the location of restaurants or places which have menus that cater to certain dietary restrictions, e.g, vegan, kosher, vegetarian, hallal etc. 
+               Full-stack web application social network where users can upload and tag images of their food with the intent of sharing the location of restaurants or places which have menus that cater to certain dietary restrictions, e.g, vegan, kosher, vegetarian, hallal etc. 
             </p>
           <br>
-          <p align="center"> Developed with - <strong> HTML5, Javascript, Tailwind, Bootstrap, ExpressJS, MongoDB, Node.js</strong><p>
+          <p align="center"> Developed with - <strong> React, TypeScript, Tailwind, Appwrite</strong><p>
             <p align="center">
               <a href="https://github.com/Tch4lla/Eatable/" target="_blank">
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
+              <a href="https://eatable2024.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
               </a>  
             </p>
           </p>
