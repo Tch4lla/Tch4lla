@@ -41,7 +41,7 @@
             <p align="center">
               <a href="https://github.com/Tch4lla/Eatable2024" target="_blank">
               <img src="https://img.shields.io/badge/Code-lightgrey?style=for-the-badge&logo=github"/>
-              <a href="https://eatable2024.vercel.app/" target="_blank">
+              <a href="https://eatsharelove.net/" target="_blank">
               <img src="https://img.shields.io/badge/-website-green?style=for-the-badge&color=005da8"/>
               </a>  
             </p>
